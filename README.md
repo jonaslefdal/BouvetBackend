@@ -18,5 +18,4 @@ Stop Backend Server
     * docker compose down
 
 
-
-#### OBS frontendapp er bare for personlig testing
+#### OBS Tester må en mappe opp og ha en referanse til def proj
